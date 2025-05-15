@@ -10,3 +10,7 @@ Config file included to provide best look out the box
 
 - **ToggleKey**: Rebind the show/hide key.  
 - **ActiveTabColor** / **InactiveTabColor**: Change tab highlight colors.  
+
+
+Update: Stats now update dynamically. Stats change immediately upon opening menu and when equipping or unequipping items.
+Menu no longer opens and closes while typing.
